@@ -1,5 +1,5 @@
 <style>
-.site-title { display: none !important; }
+h1 a { display: none !important; }
 </style>
 
 # lucky 插件 — 隐私权说明
