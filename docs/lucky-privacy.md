@@ -1,3 +1,7 @@
+<style>
+h1 a { display: none !important; }
+</style>
+
 # lucky 插件 — 隐私权说明
 
 **最后更新：2025-12-15**
